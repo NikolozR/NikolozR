@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a frontend developer with a passion for building purposeful web applications—whether it’s tools that improve everyday life, projects that make things more fun, or full-scale platforms that demonstrate technical depth. I enjoy turning ideas into clean, intuitive interfaces and care deeply about both how things look and how they work.
+I'm a frontend developer who loves building things — whether it's a tool that solves an everyday problem, a fun side project with friends, or a full product that pushes my technical skills. I enjoy turning ideas into clean, intuitive interfaces and care just as much about how things work as how they look.
 
 ---
 
