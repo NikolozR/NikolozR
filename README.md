@@ -16,7 +16,7 @@ I’m a frontend developer with a passion for building purposeful web applicatio
 
 ---
 
-### 🚀 My Projects
+### 🚀 Featured Projects
 
 - 🎧 **[NikoSonic](https://github.com/NikolozR/nikosonic)** – Full-stack e-commerce app built on a server-centric Next.js 14 architecture. Features role-based auth (Auth0), Stripe payments, an admin dashboard, and advanced server-side product filtering.
   <sub><em>Leverages Server Components & Actions for backend logic, connecting to Vercel Postgres and using NextUI for the UI.</em></sub>
