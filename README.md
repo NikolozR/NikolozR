@@ -1,8 +1,15 @@
 <h1 align="center">Hi, I'm Nika 👋</h1>
 
 <p align="center">
-  Frontend Engineer • AI Integrator • Product Builder
+  Frontend Developer • Builder of Practical & Creative Tools
 </p>
+
+---
+
+## 🧑‍💻 About Me
+
+I’m a frontend developer with a passion for building purposeful web applications — whether it’s tools that improve everyday life, projects that make things more fun, or full-scale platforms that demonstrate technical depth.  
+I enjoy turning ideas into clean, intuitive interfaces and care deeply about both how things look and how they work.
 
 ---
 
@@ -46,14 +53,6 @@
 
 ---
 
-## 🎯 What I'm Doing Now
-
-- ✍️ Refining documentation and UI polish on key repos
-- 🧳 Applying for the **[Revolut Rev-Celerator Graduate Programme (Frontend)](https://www.revolut.com/careers/graduate-programmes/)**
-- 🌍 Open to relocation (UK, EU, UAE), and available full-time from 2026
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
@@ -67,5 +66,4 @@
 
 ---
 
-<!-- Optionally hide this section later -->
 <sub>⚡ I regularly use ChatGPT, Gemini, Claude, and Cursor IDE to prototype and polish products faster.</sub>
