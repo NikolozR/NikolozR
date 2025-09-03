@@ -93,9 +93,10 @@ I'm a frontend developer who loves building things — whether it's a tool that 
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikolozR&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Nika's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolozR&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://nikoloz-r.vercel.app/api?username=NikolozR&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" />
+  <img src="https://nikoloz-r.vercel.app/api/top-langs/?username=NikolozR&layout=compact&theme=transparent&hide_border=true" />
 </p>
+
 
 ---
 
