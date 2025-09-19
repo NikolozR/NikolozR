@@ -18,14 +18,14 @@ I'm a frontend developer who loves building things — whether it's a tool that 
 
 ### 🚀 Featured Projects
 
-- 🎧 **[NikoSonic](https://github.com/NikolozR/nikosonic)** – Full-stack e-commerce app built on a server-centric Next.js 14 architecture. Features role-based auth (Auth0), Stripe payments, an admin dashboard, and advanced server-side product filtering.
-  <sub><em>Leverages Server Components & Actions for backend logic, connecting to Vercel Postgres and using NextUI for the UI.</em></sub>
-
 - ⚖️ **[Suliko.ge](https://github.com/NikolozR/suliko)** – AI-powered text & document translator with a focus on the Georgian language. Handles asynchronous jobs for various file types (`.pdf`, `.docx`) and features secure JWT authentication.
   <sub><em>Frontend built with Next.js 15, Feature-Sliced Design, shadcn/ui, and Zustand for state management.</em></sub>
 
 - 📸 **[Dared](https://github.com/NikolozR/dared)** – Cross-platform social app for daily photo & video challenges, built with React Native (Expo) and a serverless Firebase backend.
   <sub><em>Features push notifications, Expo Router for navigation, and Firebase (Auth, Cloud Functions) for serverless logic.</em></sub>
+
+- 🎧 **[NikoSonic](https://github.com/NikolozR/nikosonic)** – Full-stack e-commerce app built on a server-centric Next.js 14 architecture. Features role-based auth (Auth0), Stripe payments, an admin dashboard, and advanced server-side product filtering.
+  <sub><em>Leverages Server Components & Actions for backend logic, connecting to Vercel Postgres and using NextUI for the UI.</em></sub>
 
 ---
 
