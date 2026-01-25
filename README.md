@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <em>Frontend Developer | Builder of Practical & Creative Tools</em>
+  <em>Software Engineer | Builder of Practical & Creative Tools</em>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a frontend developer who loves building things — whether it's a tool that solves an everyday problem, a fun side project with friends, or a full product that pushes my technical skills. I enjoy turning ideas into clean, intuitive interfaces and care just as much about how things work as how they look.
+I'm a software engineer who loves building things — whether it's a tool that solves an everyday problem, a fun side project with friends, or a full product that pushes my technical skills. I enjoy turning ideas into clean, intuitive interfaces and care just as much about how things work as how they look.
 
 ---
 
