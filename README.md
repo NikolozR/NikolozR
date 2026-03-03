@@ -5,19 +5,14 @@
 </p>
 
 <p align="center">
-  <em>Software Engineer | Distributed Systems | AI Integrations | Algorithmic Problem Solver</em>
+  <em>Software Engineer</em>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a Software Engineer with a strong mathematical foundation and a passion for building complex, scalable systems. I specialize in architecting full-stack applications, designing AI-agent pipelines, and modeling distributed systems. Whether it's scaling a web platform to thousands of users or optimizing an $O(\log N)$ data structure, I love tackling deep technical challenges.
-
-*   🎓 **CS Student** at Kutaisi International University (Top 5% | 3.74 GPA).
-*   👨‍🏫 **Teaching Assistant** for *Theory of Computation* (Turing Machines, P vs NP).
-*   🏆 **ICPC Regional Finalist**, leveraging deep mathematical intuition and algorithmic logic.
-*   🎤 **GDG Lead & DevFest Organizer**, fostering engineering talent across Georgia.
+I'm a Software Engineer with a strong mathematical foundation and a passion for building complex, scalable systems. I specialize in architecting full-stack applications, designing AI-agent pipelines and modeling distributed systems. 
 
 ---
 
